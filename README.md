@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SilviaAnalyst
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python 
+- 👋 Hi, I’m @dashoflya
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning JS
 - 📫 How to reach me through my webpage (https://main--datagirl.netlify.app/ )
 
 <!---
